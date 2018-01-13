@@ -1,0 +1,6 @@
+web\service\ServingLayerController.class
+web\scraping\jsoup\TestJsoup.class
+web\scraping\jsoup\Batcher$1.class
+web\scraping\jsoup\Batcher.class
+web\service\ServingLayerConfiguration.class
+web\scraping\jsoup\JSoupBook.class
